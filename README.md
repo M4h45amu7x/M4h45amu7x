@@ -10,7 +10,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to make website and coding java
+  📚 I’m currently learning javascript
 </p>
 
 <hr>
