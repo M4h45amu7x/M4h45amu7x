@@ -14,24 +14,16 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Skills 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/php.svg"></code>
+  <code><img title="HTML" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/html.png"></code>
+  <code><img title="CSS" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/css-3.png"></code>
+  <code><img title="SASS" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/sass.png"></code>
+  <code><img title="PHP" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/php.png"></code>
+  <code><img title="JavaScript" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/js.png"></code>
+  <code><img title="NextJS" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/nextjs.png"></code>
+  <code><img title="Java" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/java.png"></code>
 </p>
 <hr>
 
