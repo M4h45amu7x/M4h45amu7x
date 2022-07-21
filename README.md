@@ -1,7 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=M4h45amu7x.M4h45amu7x">
 
-<img src="https://c.tenor.com/IeXeDuvMYPEAAAAd/no.gif" width="100%">
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello%2C+There!+%F0%9F%91%8B;I'm+M4h45amu7x....;Nice+to+meet+you&center=true&size=30">
 </h1>
