@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  Hi, I'm M4h45amu7x, Programmer from Thailand
+  Hi, I'm M4h45amu7x, a Programmer from Thailand
   <br>
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning anything about it
   <br>
   📚 I’m currently learning javascript
 </p>
