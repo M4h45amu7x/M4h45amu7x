@@ -23,6 +23,7 @@
   <code><img title="PHP" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/php.png"></code>
   <code><img title="JavaScript" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/js.png"></code>
   <code><img title="TypeScript" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/typescript.png"></code>
+  <code><img title="React" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/react.png"></code>
   <code><img title="NextJS" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/nextjs.png"></code>
   <code><img title="Electron" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/electron.png"></code>
   <code><img title="Prisma" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/prisma.png"></code>
