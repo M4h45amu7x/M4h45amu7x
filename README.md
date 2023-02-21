@@ -26,9 +26,7 @@
   <code><img title="React" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/react.png"></code>
   <code><img title="NextJS" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/nextjs.png"></code>
   <code><img title="Electron" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/electron.png"></code>
-  <code><img title="Prisma" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/prisma.png"></code>
   <code><img title="Java" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/java.png"></code>
-  <code><img title="JDA" height="25" src="https://github.com/M4h45amu7x/M4h45amu7x/blob/main/images/jda.png"></code>
 </p>
 <hr>
 
