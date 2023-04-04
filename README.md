@@ -50,7 +50,7 @@
 			src="https://github-readme-stats.vercel.app/api?username=M4h45amu7x&show_icons=true&theme=react&border_color=61dafb&hide_border=true&custom_title=M4h45amu7x%27s%20Github%20Stats"
 		/>
 	</div>
-	<br /><br /><br /><br /><br /><br /><br /><br />
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 	<div align="center">
 		<img
 			width="325"
