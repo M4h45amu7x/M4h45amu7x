@@ -47,7 +47,7 @@
 		<img
 			align="right"
 			width="396"
-			src="https://github-readme-stats.vercel.app/api?username=M4h45amu7x&show_icons=true&theme=react&border_color=61dafb&hide_border=true&custom_title=M4h45amu7x%27s%20Github%20Stats"
+			src="https://github-readme-stats.vercel.app/api?username=M4h45amu7x&show_icons=true&theme=react&border_color=61dafb&hide_border=true&custom_title=Github%20Stats"
 		/>
 	</div>
 	<br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -60,7 +60,7 @@
 	</div>
 	<br />
 	<img
-		src="https://github-readme-activity-graph.cyclic.app/graph?username=M4h45amu7x&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=M4h45amu7x%27s%20Contribution%20Graph"
+		src="https://github-readme-activity-graph.cyclic.app/graph?username=M4h45amu7x&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=Contribution%20Graph"
 		width="100%"
 	/>
 </div>
