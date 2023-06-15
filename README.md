@@ -60,7 +60,7 @@
 	</div>
 	<br />
 	<img
-		src="https://github-readme-activity-graph.cyclic.app/graph?username=M4h45amu7x&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=Contribution%20Graph"
+		src="https://github-readme-activity-graph.vercel.app/graph?username=M4h45amu7x&theme=react-dark&bg_color=20232a&hide_border=true&custom_title=Contribution%20Graph"
 		width="100%"
 	/>
 </div>
